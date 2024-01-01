@@ -1,0 +1,6 @@
+{
+  "name": "Poetry / Conda Docker",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+}
