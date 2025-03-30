@@ -1,4 +1,4 @@
 {
   "name": "Poetry / Conda Environment",
-  "image": "mcr.microsoft.com/devcontainers/python:3.10:latest"
+  "image": "mcr.microsoft.com/devcontainers/python:3.10"
 }
