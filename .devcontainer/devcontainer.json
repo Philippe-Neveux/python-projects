@@ -1,4 +1,4 @@
+
 {
-  "name": "Poetry / Conda Environment",
-  "image": "ghcr.io/philippe-neveux/data-sciences:latest"
+  "build": { "dockerfile": "Dockerfile" }
 }
